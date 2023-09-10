@@ -1,0 +1,9 @@
+name: microbedesign-dfba
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cobra=0.26.3
+  - jupyter
+  - matplotlib
+  - scipy
